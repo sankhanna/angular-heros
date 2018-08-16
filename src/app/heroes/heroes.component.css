@@ -1,8 +1,12 @@
 /* HeroesComponent's private CSS styles */
 .selected {
-    background-color: #CFD8DC !important;
-    color: white;
+    background-color: green !important;
   }
+  .selected1 {
+   color: orange;
+  }
+
+
   .heroes {
     margin: 0 0 2em 0;
     list-style-type: none;
